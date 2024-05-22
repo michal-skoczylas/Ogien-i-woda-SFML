@@ -1,0 +1,9 @@
+# ninja log v6
+3	549	1716367951883365069	OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+3	549	1716367951883365069	OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+3	549	1716367951883365069	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+3	549	1716367951883365069	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+549	2806	1716367951893365069	CMakeFiles/OgienIWoda.dir/main.cpp.o	67462867ef470d21
+550	2863	1716367951893365069	CMakeFiles/OgienIWoda.dir/mainwindow.cpp.o	326534d41d9f043c
+549	2889	1716367951893365069	CMakeFiles/OgienIWoda.dir/OgienIWoda_autogen/mocs_compilation.cpp.o	e6c2bac091e2336a
+2890	3494	1716367954233365093	OgienIWoda	43edcf3f5c89891b
