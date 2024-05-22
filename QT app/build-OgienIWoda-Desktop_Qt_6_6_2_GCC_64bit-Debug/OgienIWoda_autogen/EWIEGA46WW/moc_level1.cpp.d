@@ -1,6 +1,5 @@
-/home/michal/Studia/PSIO/Projekt/QT\ app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/EWIEGA46WW/moc_mainwindow.cpp: /home/michal/Studia/PSIO/Projekt/QT\ app/OgienIWoda/mainwindow.h \
+/home/michal/Studia/PSIO/Projekt/QT\ app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/EWIEGA46WW/moc_level1.cpp: /home/michal/Studia/PSIO/Projekt/QT\ app/OgienIWoda/level1.h \
   /home/michal/Studia/PSIO/Projekt/QT\ app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/moc_predefs.h \
-  /home/michal/Qt/6.6.2/gcc_64/include/QtCore/QProcess \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/q20functional.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/q20memory.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/q20type_traits.h \
@@ -43,7 +42,6 @@
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qglobalstatic.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qhash.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qhashfunctions.h \
-  /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiodevice.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiodevicebase.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiterable.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiterator.h \
@@ -67,7 +65,6 @@
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qoverload.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qpair.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qpoint.h \
-  /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qprocess.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qprocessordetection.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qrect.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qrefcount.h \
@@ -140,14 +137,88 @@
   /home/michal/Qt/6.6.2/gcc_64/include/QtGui/qtguiglobal.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtGui/qtransform.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtGui/qwindowdefs.h \
-  /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/QMainWindow \
-  /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/qmainwindow.h \
+  /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/QWidget \
   /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/qsizepolicy.h \
-  /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/qtabwidget.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/qtwidgets-config.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/qtwidgetsexports.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/qtwidgetsglobal.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtWidgets/qwidget.h \
+  /usr/include/SFML/Config.hpp \
+  /usr/include/SFML/Graphics.hpp \
+  /usr/include/SFML/Graphics/BlendMode.hpp \
+  /usr/include/SFML/Graphics/CircleShape.hpp \
+  /usr/include/SFML/Graphics/Color.hpp \
+  /usr/include/SFML/Graphics/ConvexShape.hpp \
+  /usr/include/SFML/Graphics/Drawable.hpp \
+  /usr/include/SFML/Graphics/Export.hpp \
+  /usr/include/SFML/Graphics/Font.hpp \
+  /usr/include/SFML/Graphics/Glsl.hpp \
+  /usr/include/SFML/Graphics/Glsl.inl \
+  /usr/include/SFML/Graphics/Glyph.hpp \
+  /usr/include/SFML/Graphics/Image.hpp \
+  /usr/include/SFML/Graphics/PrimitiveType.hpp \
+  /usr/include/SFML/Graphics/Rect.hpp \
+  /usr/include/SFML/Graphics/Rect.inl \
+  /usr/include/SFML/Graphics/RectangleShape.hpp \
+  /usr/include/SFML/Graphics/RenderStates.hpp \
+  /usr/include/SFML/Graphics/RenderTarget.hpp \
+  /usr/include/SFML/Graphics/RenderTexture.hpp \
+  /usr/include/SFML/Graphics/RenderWindow.hpp \
+  /usr/include/SFML/Graphics/Shader.hpp \
+  /usr/include/SFML/Graphics/Shape.hpp \
+  /usr/include/SFML/Graphics/Sprite.hpp \
+  /usr/include/SFML/Graphics/Text.hpp \
+  /usr/include/SFML/Graphics/Texture.hpp \
+  /usr/include/SFML/Graphics/Transform.hpp \
+  /usr/include/SFML/Graphics/Transformable.hpp \
+  /usr/include/SFML/Graphics/Vertex.hpp \
+  /usr/include/SFML/Graphics/VertexArray.hpp \
+  /usr/include/SFML/Graphics/VertexBuffer.hpp \
+  /usr/include/SFML/Graphics/View.hpp \
+  /usr/include/SFML/System.hpp \
+  /usr/include/SFML/System/Clock.hpp \
+  /usr/include/SFML/System/Err.hpp \
+  /usr/include/SFML/System/Export.hpp \
+  /usr/include/SFML/System/FileInputStream.hpp \
+  /usr/include/SFML/System/InputStream.hpp \
+  /usr/include/SFML/System/Lock.hpp \
+  /usr/include/SFML/System/MemoryInputStream.hpp \
+  /usr/include/SFML/System/Mutex.hpp \
+  /usr/include/SFML/System/NonCopyable.hpp \
+  /usr/include/SFML/System/Sleep.hpp \
+  /usr/include/SFML/System/String.hpp \
+  /usr/include/SFML/System/String.inl \
+  /usr/include/SFML/System/Thread.hpp \
+  /usr/include/SFML/System/Thread.inl \
+  /usr/include/SFML/System/ThreadLocal.hpp \
+  /usr/include/SFML/System/ThreadLocalPtr.hpp \
+  /usr/include/SFML/System/ThreadLocalPtr.inl \
+  /usr/include/SFML/System/Time.hpp \
+  /usr/include/SFML/System/Utf.hpp \
+  /usr/include/SFML/System/Utf.inl \
+  /usr/include/SFML/System/Vector2.hpp \
+  /usr/include/SFML/System/Vector2.inl \
+  /usr/include/SFML/System/Vector3.hpp \
+  /usr/include/SFML/System/Vector3.inl \
+  /usr/include/SFML/Window.hpp \
+  /usr/include/SFML/Window/Clipboard.hpp \
+  /usr/include/SFML/Window/Context.hpp \
+  /usr/include/SFML/Window/ContextSettings.hpp \
+  /usr/include/SFML/Window/Cursor.hpp \
+  /usr/include/SFML/Window/Event.hpp \
+  /usr/include/SFML/Window/Export.hpp \
+  /usr/include/SFML/Window/GlResource.hpp \
+  /usr/include/SFML/Window/Joystick.hpp \
+  /usr/include/SFML/Window/Keyboard.hpp \
+  /usr/include/SFML/Window/Mouse.hpp \
+  /usr/include/SFML/Window/Sensor.hpp \
+  /usr/include/SFML/Window/Touch.hpp \
+  /usr/include/SFML/Window/VideoMode.hpp \
+  /usr/include/SFML/Window/Vulkan.hpp \
+  /usr/include/SFML/Window/Window.hpp \
+  /usr/include/SFML/Window/WindowBase.hpp \
+  /usr/include/SFML/Window/WindowHandle.hpp \
+  /usr/include/SFML/Window/WindowStyle.hpp \
   /usr/include/alloca.h \
   /usr/include/asm-generic/errno-base.h \
   /usr/include/asm-generic/errno.h \
@@ -216,6 +287,7 @@
   /usr/include/bits/waitflags.h \
   /usr/include/bits/waitstatus.h \
   /usr/include/bits/wchar.h \
+  /usr/include/bits/wctype-wchar.h \
   /usr/include/bits/wordsize.h \
   /usr/include/bits/xopen_lim.h \
   /usr/include/c++/14.1.1/algorithm \
@@ -231,11 +303,14 @@
   /usr/include/c++/14.1.1/bits/allocator.h \
   /usr/include/c++/14.1.1/bits/atomic_base.h \
   /usr/include/c++/14.1.1/bits/atomic_lockfree_defines.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.h \
+  /usr/include/c++/14.1.1/bits/basic_ios.tcc \
   /usr/include/c++/14.1.1/bits/basic_string.h \
   /usr/include/c++/14.1.1/bits/basic_string.tcc \
   /usr/include/c++/14.1.1/bits/char_traits.h \
   /usr/include/c++/14.1.1/bits/charconv.h \
   /usr/include/c++/14.1.1/bits/chrono.h \
+  /usr/include/c++/14.1.1/bits/codecvt.h \
   /usr/include/c++/14.1.1/bits/concept_check.h \
   /usr/include/c++/14.1.1/bits/cpp_type_traits.h \
   /usr/include/c++/14.1.1/bits/cxxabi_forced.h \
@@ -255,6 +330,11 @@
   /usr/include/c++/14.1.1/bits/list.tcc \
   /usr/include/c++/14.1.1/bits/locale_classes.h \
   /usr/include/c++/14.1.1/bits/locale_classes.tcc \
+  /usr/include/c++/14.1.1/bits/locale_conv.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.h \
+  /usr/include/c++/14.1.1/bits/locale_facets.tcc \
+  /usr/include/c++/14.1.1/bits/locale_facets_nonio.h \
+  /usr/include/c++/14.1.1/bits/locale_facets_nonio.tcc \
   /usr/include/c++/14.1.1/bits/localefwd.h \
   /usr/include/c++/14.1.1/bits/memory_resource.h \
   /usr/include/c++/14.1.1/bits/memoryfwd.h \
@@ -262,6 +342,7 @@
   /usr/include/c++/14.1.1/bits/nested_exception.h \
   /usr/include/c++/14.1.1/bits/new_allocator.h \
   /usr/include/c++/14.1.1/bits/node_handle.h \
+  /usr/include/c++/14.1.1/bits/ostream.tcc \
   /usr/include/c++/14.1.1/bits/ostream_insert.h \
   /usr/include/c++/14.1.1/bits/parse_numbers.h \
   /usr/include/c++/14.1.1/bits/postypes.h \
@@ -324,6 +405,7 @@
   /usr/include/c++/14.1.1/cstring \
   /usr/include/c++/14.1.1/ctime \
   /usr/include/c++/14.1.1/cwchar \
+  /usr/include/c++/14.1.1/cwctype \
   /usr/include/c++/14.1.1/debug/assertions.h \
   /usr/include/c++/14.1.1/debug/debug.h \
   /usr/include/c++/14.1.1/exception \
@@ -336,15 +418,18 @@
   /usr/include/c++/14.1.1/ext/type_traits.h \
   /usr/include/c++/14.1.1/functional \
   /usr/include/c++/14.1.1/initializer_list \
+  /usr/include/c++/14.1.1/ios \
   /usr/include/c++/14.1.1/iosfwd \
   /usr/include/c++/14.1.1/iterator \
   /usr/include/c++/14.1.1/limits \
   /usr/include/c++/14.1.1/list \
+  /usr/include/c++/14.1.1/locale \
   /usr/include/c++/14.1.1/map \
   /usr/include/c++/14.1.1/memory \
   /usr/include/c++/14.1.1/new \
   /usr/include/c++/14.1.1/numeric \
   /usr/include/c++/14.1.1/optional \
+  /usr/include/c++/14.1.1/ostream \
   /usr/include/c++/14.1.1/pstl/execution_defs.h \
   /usr/include/c++/14.1.1/pstl/glue_numeric_defs.h \
   /usr/include/c++/14.1.1/ratio \
@@ -377,10 +462,14 @@
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/c++locale.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/cpu_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_base.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/ctype_inline.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/error_constants.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr-default.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/gthr.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/messages_members.h \
   /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \
+  /usr/include/c++/14.1.1/x86_64-pc-linux-gnu/bits/time_members.h \
   /usr/include/ctype.h \
   /usr/include/endian.h \
   /usr/include/errno.h \
@@ -388,6 +477,7 @@
   /usr/include/features.h \
   /usr/include/gnu/stubs-64.h \
   /usr/include/gnu/stubs.h \
+  /usr/include/libintl.h \
   /usr/include/limits.h \
   /usr/include/linux/errno.h \
   /usr/include/linux/limits.h \
@@ -405,6 +495,7 @@
   /usr/include/sys/types.h \
   /usr/include/time.h \
   /usr/include/wchar.h \
+  /usr/include/wctype.h \
   /usr/lib/clang/17/include/__stddef_max_align_t.h \
   /usr/lib/clang/17/include/stdarg.h \
   /usr/lib/clang/17/include/stdbool.h \

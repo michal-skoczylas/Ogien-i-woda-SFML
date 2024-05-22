@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QProcess>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -17,7 +18,12 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void on_select_level_button_clicked();//przycisk do wybierania poziomu klikniety
+
 private:
     Ui::MainWindow *ui;
+    QProcess *sfmlProcess;
+
 };
 #endif // MAINWINDOW_H

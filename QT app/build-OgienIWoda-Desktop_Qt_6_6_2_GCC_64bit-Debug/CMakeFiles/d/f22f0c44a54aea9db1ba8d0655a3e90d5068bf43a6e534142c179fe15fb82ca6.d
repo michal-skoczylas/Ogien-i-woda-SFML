@@ -1,4 +1,5 @@
 OgienIWoda_autogen/timestamp: \
+  /home/michal/Qt/6.6.2/gcc_64/include/QtCore/QProcess \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/q20functional.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/q20memory.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/q20type_traits.h \
@@ -41,6 +42,7 @@ OgienIWoda_autogen/timestamp: \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qglobalstatic.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qhash.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qhashfunctions.h \
+  /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiodevice.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiodevicebase.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiterable.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qiterator.h \
@@ -64,6 +66,7 @@ OgienIWoda_autogen/timestamp: \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qoverload.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qpair.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qpoint.h \
+  /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qprocess.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qprocessordetection.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qrect.h \
   /home/michal/Qt/6.6.2/gcc_64/include/QtCore/qrefcount.h \
@@ -356,78 +359,23 @@ OgienIWoda_autogen/timestamp: \
   /home/michal/Qt/6.6.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake \
   /home/michal/Qt/6.6.2/gcc_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake \
   /home/michal/Qt/Tools/CMake/bin/cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCXXCompiler.cmake.in \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCXXCompilerABI.cpp \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCXXInformation.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeCompilerIdDetection.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCXXCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompileFeatures.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeFindBinUtils.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeGenericSystem.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeNinjaFindMake.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeParseImplicitIncludeInfo.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeParseImplicitLinkInfo.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeParseLibraryArchitecture.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeSystem.cmake.in \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeTestCXXCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CMakeTestCompilerCommon.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CheckCXXCompilerFlag.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CheckCXXSourceCompiles.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CheckIncludeFileCXX.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/CheckLibraryExists.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Borland-DetermineCompiler.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Clang-CXX.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Clang-FindBinUtils.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Clang.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Cray-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/GHS-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/GNU.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/IAR-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Intel-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/PGI-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/SCO-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/TI-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/FeatureSummary.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/FindOpenGL.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/FindPackageHandleStandardArgs.cmake \
@@ -439,10 +387,8 @@ OgienIWoda_autogen/timestamp: \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Internal/CheckCompilerFlag.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Internal/CheckFlagCommonConfig.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Internal/CheckSourceCompiles.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Internal/FeatureTesting.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/MacroAddFileDependencies.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Platform/Linux-Clang-CXX.cmake \
-  /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Platform/Linux-Determine-CXX.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Platform/Linux-GNU-CXX.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Platform/Linux-GNU.cmake \
   /home/michal/Qt/Tools/CMake/share/cmake-3.27/Modules/Platform/Linux-Initialize.cmake \
@@ -717,4 +663,9 @@ OgienIWoda_autogen/timestamp: \
   /usr/lib/clang/17/include/__stddef_max_align_t.h \
   /usr/lib/clang/17/include/stdarg.h \
   /usr/lib/clang/17/include/stdbool.h \
-  /usr/lib/clang/17/include/stddef.h
+  /usr/lib/clang/17/include/stddef.h \
+  /usr/lib/cmake/SFML/SFMLConfig.cmake \
+  /usr/lib/cmake/SFML/SFMLConfigDependencies.cmake \
+  /usr/lib/cmake/SFML/SFMLConfigVersion.cmake \
+  /usr/lib/cmake/SFML/SFMLSharedTargets-release.cmake \
+  /usr/lib/cmake/SFML/SFMLSharedTargets.cmake

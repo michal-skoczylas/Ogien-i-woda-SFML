@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-76a5c6284d2cc00ecc12.json",
+					"jsonFile" : "directory-.-Debug-7a55c23fb5175695be7c.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "OgienIWoda::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-OgienIWoda-Debug-b66a6324921dfd913f49.json",
+					"jsonFile" : "target-OgienIWoda-Debug-106dec62af5736433245.json",
 					"name" : "OgienIWoda",
 					"projectIndex" : 0
 				},

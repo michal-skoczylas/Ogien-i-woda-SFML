@@ -1,9 +1,30 @@
 # ninja log v6
-3	549	1716367951883365069	OgienIWoda_autogen/timestamp	b36f9f79557fb54f
-3	549	1716367951883365069	OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
-3	549	1716367951883365069	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/timestamp	b36f9f79557fb54f
-3	549	1716367951883365069	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
-549	2806	1716367951893365069	CMakeFiles/OgienIWoda.dir/main.cpp.o	67462867ef470d21
-550	2863	1716367951893365069	CMakeFiles/OgienIWoda.dir/mainwindow.cpp.o	326534d41d9f043c
-549	2889	1716367951893365069	CMakeFiles/OgienIWoda.dir/OgienIWoda_autogen/mocs_compilation.cpp.o	e6c2bac091e2336a
-2890	3494	1716367954233365093	OgienIWoda	43edcf3f5c89891b
+7	543	1716372629764476308	OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+7	543	1716372629764476308	OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+7	543	1716372629764476308	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+7	543	1716372629764476308	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+543	5363	1716372629771142975	CMakeFiles/OgienIWoda.dir/main.cpp.o	67462867ef470d21
+544	5423	1716372629771142975	CMakeFiles/OgienIWoda.dir/mainwindow.cpp.o	326534d41d9f043c
+543	5362	1716372629771142975	CMakeFiles/OgienIWoda.dir/OgienIWoda_autogen/mocs_compilation.cpp.o	e6c2bac091e2336a
+5424	5838	1716372634651143195	OgienIWoda	2e9cbe5622ea49d0
+550	5002	1716372629777809641	CMakeFiles/OgienIWoda.dir/level1.cpp.o	90f759e274542f8c
+8	506	1716373009964493257	OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+8	506	1716373009964493257	OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+8	506	1716373009964493257	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+8	506	1716373009964493257	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+5	395	1716373029924494157	OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+5	395	1716373029924494157	OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+5	395	1716373029924494157	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+5	395	1716373029924494157	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+396	3703	1716373029934494158	CMakeFiles/OgienIWoda.dir/main.cpp.o	67462867ef470d21
+395	3852	1716373029934494158	CMakeFiles/OgienIWoda.dir/OgienIWoda_autogen/mocs_compilation.cpp.o	e6c2bac091e2336a
+396	4187	1716373029934494158	CMakeFiles/OgienIWoda.dir/mainwindow.cpp.o	326534d41d9f043c
+4187	4548	1716373033724494329	OgienIWoda	3cb96f04293b1797
+6	359	1716373412307844676	OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+6	359	1716373412307844676	OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+6	359	1716373412307844676	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/timestamp	b36f9f79557fb54f
+6	359	1716373412307844676	/home/michal/Studia/PSIO/Projekt/QT app/build-OgienIWoda-Desktop_Qt_6_6_2_GCC_64bit-Debug/OgienIWoda_autogen/mocs_compilation.cpp	b36f9f79557fb54f
+359	3048	1716373412314511344	CMakeFiles/OgienIWoda.dir/OgienIWoda_autogen/mocs_compilation.cpp.o	e6c2bac091e2336a
+359	3066	1716373412314511344	CMakeFiles/OgienIWoda.dir/main.cpp.o	67462867ef470d21
+360	3411	1716373412314511344	CMakeFiles/OgienIWoda.dir/mainwindow.cpp.o	326534d41d9f043c
+3411	3762	1716373415364511481	OgienIWoda	3cb96f04293b1797
